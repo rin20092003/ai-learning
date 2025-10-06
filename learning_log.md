@@ -18,3 +18,22 @@
 - **Next:**
   - Python基礎練習（変数、リスト、辞書）
   - 関数の練習
+
+
+  ## 2025-10-03 (Day 2)
+- **Hours:** 2h
+- **Topics:**
+  - 変数と型
+  - リスト（配列）
+  - 辞書（Dictionary）
+- **Completed:**
+  - ✅ day2_variables.py
+  - ✅ day2_lists.py
+  - ✅ day2_dictionaries.py
+  - ✅ day2_challenge.py
+- **Key Learnings:**
+  - Pythonのリストは柔軟
+  - 辞書は非常に便利
+  - snake_case命名規則に慣れてきた
+- **Next:**
+  - 制御構文（if, for, while）
